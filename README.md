@@ -5,8 +5,6 @@
 A two-method statistical analysis of 4,600 tracks, testing whether playlist placement and
 popularity metrics explain how many streams a song receives on Spotify.
 
-*Group project — Research Methods for Business Analytics.*
-
 ---
 
 ## Research questions
